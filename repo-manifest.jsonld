@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/alexmojaki/birdseye/commit/753f6648db380c808534089ead648409dd94abc2",
       "git:hexsha": "753f6648db380c808534089ead648409dd94abc2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.10.0"
     },
     {
