@@ -1,0 +1,11 @@
+{
+  "org": "alexmojaki",
+  "repo": "birdseye",
+  "versions": [
+    {
+      "commit": "753f6648db380c808534089ead648409dd94abc2",
+      "tag": "v0.10.0",
+      "parsed_at": "2026-10-18T05:43:34.089000+00:00"
+    }
+  ]
+}
